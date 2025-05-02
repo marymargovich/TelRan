@@ -33,7 +33,7 @@ public class Homework3_2 {
 
 
 
-        System.out.println("__________TASK 3***___________");
+        System.out.println("__________TASK 3***/char/___________");
         int age = 34;
         float incomePerMonth = 11000;// denied
         char debtC = '-';
@@ -53,7 +53,7 @@ public class Homework3_2 {
         System.out.println(replayLoan);
 
 
-        System.out.println("__________TASK 3.3_method***___________");
+        System.out.println("__________TASK 3.3_method/boolean/***___________");
         age = 10;//denied
         incomePerMonth = 11000;
         debtB = true;
