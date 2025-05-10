@@ -17,7 +17,7 @@ public class homework_loops {
         System.out.println("____________TASK 2_for2_________");
         luckyNumber2(173867);
         System.out.println("____________TASK 2_for3_________");
-        luckyNumber2(132231);
+        luckyNumber3(132231);
 
     }
 
